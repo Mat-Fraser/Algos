@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc9569bd.chunk.css",
+    "main.js": "/static/js/main.343b1c9c.chunk.js",
+    "main.js.map": "/static/js/main.343b1c9c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.916aef06.js",
+    "runtime-main.js.map": "/static/js/runtime-main.916aef06.js.map",
+    "static/js/2.b2180c49.chunk.js": "/static/js/2.b2180c49.chunk.js",
+    "static/js/2.b2180c49.chunk.js.map": "/static/js/2.b2180c49.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a41540d63db6ac4f81f213b290b8b767.js": "/precache-manifest.a41540d63db6ac4f81f213b290b8b767.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fc9569bd.chunk.css.map": "/static/css/main.fc9569bd.chunk.css.map",
+    "static/js/2.b2180c49.chunk.js.LICENSE.txt": "/static/js/2.b2180c49.chunk.js.LICENSE.txt",
+    "static/media/algo.png": "/static/media/algo.d0e92a59.png",
+    "static/media/play-solid.svg": "/static/media/play-solid.f79fe6ae.svg",
+    "static/media/times-circle-solid.svg": "/static/media/times-circle-solid.bb7daa97.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.916aef06.js",
+    "static/js/2.b2180c49.chunk.js",
+    "static/css/main.fc9569bd.chunk.css",
+    "static/js/main.343b1c9c.chunk.js"
+  ]
+}
